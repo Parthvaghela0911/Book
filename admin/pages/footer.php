@@ -4,8 +4,8 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.3.8
     </div>
-    <strong>&copy; <?php echo date("Y"); ?> <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
-    reserved
+    <!-- <strong>&copy; <?php echo date("Y"); ?> <a href=""></a>.</strong> All rights -->
+    <!-- reserved -->
   </footer>
 
   <!-- Control Sidebar -->

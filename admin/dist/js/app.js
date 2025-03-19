@@ -4,11 +4,11 @@
  * should be included in all pages. It controls some layout
  * options and implements exclusive AdminLTE plugins.
  *
- * @Author  Almsaeed Studio
+ * @Author  Parth vaghela
  * @Support <http://www.almsaeedstudio.com>
  * @Email   <abdullah@almsaeedstudio.com>
  * @version 2.3.8
- * @license MIT <http://opensource.org/licenses/MIT>
+ * @license MIT <>
  */
 
 //Make sure jQuery has been loaded before app.js
